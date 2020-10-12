@@ -17,6 +17,8 @@ Add this at the top level gradle file :
 repositories {
 	maven { url "https://jitpack.io" }
 }
+
+
 Step 2 : 
 
 Add this in your app level gradle dependencies file :
